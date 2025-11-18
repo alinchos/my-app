@@ -3,6 +3,6 @@
 Файл діаграми: Use_Case_Diagram.drawio (або .xml)
 
 #### Візуалізація
-![Діаграма прецедентів](Use_Case_Diagram.jpeg)
+![Діаграма прецедентів](Use_Case_Diagram.jpg)
 
 *Примітка: Файл Use_Case_Diagram.jpeg знаходиться в цьому ж каталозі.*
